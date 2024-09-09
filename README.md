@@ -31,3 +31,8 @@ Jenis Jenis Topologi :
   4. Topologi Star : Semua perangkat terhubung ke satu perangkat pusat (misalnya, hub atau switch). 
 	   •	Kelebihan: Jika satu kabel terputus, hanya perangkat tersebut yang terganggu.
 	   •	Kekurangan: Jika perangkat pusat mati, seluruh jaringan terhenti.
+
+
+Topologi Paling Bagus Adalah Topologi Mesh : 
+
+![image](https://github.com/user-attachments/assets/c06bef96-99ed-4667-a8f5-abe39ec80431)
